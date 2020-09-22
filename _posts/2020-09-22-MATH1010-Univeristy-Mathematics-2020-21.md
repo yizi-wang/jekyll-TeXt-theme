@@ -15,7 +15,10 @@ tags: university_mathematics tutorial_notes
 
 
 ## Tutorial Notes
-+ [Tutorial on Sep. 17](https://yizi-wang.github.io/assets/notes/Tutorial_0917.pdf)
+[Click here](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155076883_link_cuhk_edu_hk/Erhnc4Ks7SBCjkAr4VCY6EUBl54p5JvOzlciBD3peMZIsw?e=LuFgWv) to access the notes in OneDrive if you cannot open the files directly.
+
++ [Tutorial on Sep. 17](https://yzwang.xyz/assets/notes/Tutorial_0917.pdf)
+
 
 ## Useful Links
 + [Link to ZOOM meeting (if you are in Hong Kong)](https://cuhk.zoom.us/j/97240229718?pwd=dm9Hb0pmaE9pL1VOd3hhdnZnNEI0UT09)
