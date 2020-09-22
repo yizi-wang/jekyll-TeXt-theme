@@ -1,6 +1,6 @@
 ---
 layout: article
-title: MATH1010-Univeristy Mathematics-2020\21
+title: MATH1010-Univeristy Mathematics-2020/21
 key: MATH-Notes
 tags: university_mathematics tutorial_notes
 ---
