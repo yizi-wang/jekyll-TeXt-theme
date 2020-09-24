@@ -18,6 +18,7 @@ tags: university_mathematics tutorial_notes
 [Click here](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155076883_link_cuhk_edu_hk/Erhnc4Ks7SBCjkAr4VCY6EUBl54p5JvOzlciBD3peMZIsw?e=LuFgWv) to access the notes in OneDrive if you cannot open the files directly.
 
 + [Tutorial on Sep. 17](https://yzwang.xyz/assets/notes/Tutorial_0917.pdf)
++ [Tutorial on Sep. 24](https://yzwang.xyz/assets/notes/Tutorial_0924.pdf)
 
 
 ## Useful Links
