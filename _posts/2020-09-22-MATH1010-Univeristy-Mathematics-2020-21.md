@@ -21,6 +21,8 @@ tags: university_mathematics tutorial_notes
 + [Tutorial on Sep. 24](https://yzwang.xyz/assets/notes/Tutorial_0924.pdf)
 + [Tutorial on Oct. 08](https://yzwang.xyz/assets/notes/Tutorial_1008.pdf)
 + [Tutorial on Oct. 15](https://yzwang.xyz/assets/notes/Tutorial_1015.pdf)
++ [Tutorial on Oct. 22](https://yzwang.xyz/assets/notes/Tutorial_1022.pdf)
++ [Tutorial on Oct. 29](https://yzwang.xyz/assets/notes/Tutorial_1029.pdf)
 
 
 ## Useful Links
